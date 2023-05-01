@@ -4,5 +4,4 @@ export const FriendListCard = styled.ul`
     margin: 0;
     padding: 0;
     margin-top: 20px;
-    border-radius: 10px;
 `;
